@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="58" viewBox="0 0 248 58">
+    <defs>
+        <style>
+            .cls-1{fill:#4b4a4a;font-size:40px;font-family:Airborne II;letter-spacing:.01em}
+        </style>
+    </defs>
+    <text id="click_here" class="cls-1" data-name="click here">
+        <tspan x="11.624" y="36">CLICK HERE</tspan>
+    </text>
+</svg>

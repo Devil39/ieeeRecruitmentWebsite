@@ -1,0 +1,104 @@
+.upperBox{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(12, 11, 11);/*0xFF0C0B0B*/
+    display: flex;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 15px;
+    color: white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    justify-content: space-around;
+    margin-bottom: 8%;
+}
+
+.textInUpperBox{
+    margin-top: 1%;
+    font-size: 1000;
+}
+
+.ieeeLogoContainer{
+    /* height: 100%;
+    width: 110%; */
+    /* border: 2px solid red; */
+}
+
+#ieeeLogo{
+    height: 100%;
+    width: 12%;
+    overflow: hidden;
+    /* border: 2px solid green; */
+    margin-left: 50%;
+    margin-top: -1%;
+    margin-bottom: -1%;
+}
+
+.sharingContainer{
+    display: flex;
+    /* border: 2px solid orange; */
+    /* height: 100%;
+    width: 70%; */
+}
+
+#facebookLogo{
+    height: 20px;
+    width: 80px;
+    overflow: hidden;
+    /* border: 2px solid green; */
+    margin-left: 70%;
+}
+
+#instaLogo{
+    height: 20px;
+    width: 80px;
+    overflow: hidden;
+    /* border: 2px solid green; */
+    margin-top: 7%;
+}
+
+.mainText{
+    /* margin-left: 50%; */
+    width: 60%;
+    height: auto;
+    /* border: 2px solid olive; */
+    /* padding-left: auto;
+    padding-right: auto; */
+    margin: auto;
+    /* padding-top: 10%; */
+}
+.mainText:hover{/*hoverBuddy*/
+    background-color: white;
+    /* width: 60%; */
+    /* width: auto; */
+    /* height: 100%; */
+    /* display: block; */
+    margin: auto;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+
+#mainTextSVG{
+    height: 80%;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#clickHereSVG{
+    height: 10%;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainTextSVG:hover{
+    height: 90%;
+    width: 90%;
+}
+/* img{
+    height: 100%;
+    width: 5%;
+    border: 2px solid green;
+} */
